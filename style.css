@@ -2,16 +2,10 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
-
 }
 
 body{
-
 text-decoration: none;
-}
-
-.container{
-
 }
 
 .navbar{
@@ -24,21 +18,14 @@ text-decoration: none;
 }
 .leftbar{
   /* border: 1px solid orange; */
- 
- 
- 
   padding: 10px;
-
- 
 }
 .nextlogo{
-
   margin-left: 280px;
   margin-top: 14px;
 }
 
 .links{
-  
   display: flex;
   align-content: center;
   justify-content: space-between;
@@ -79,20 +66,17 @@ text-decoration: none;
     text-decoration: none;
     margin-right: 7px;
     color: black;
-
   }
 
   .r6{
     text-decoration: none;
     color: black;
-
   }
 
 }
 
 .rightbar{
   /* border: 1px solid brown; */
-
   margin-left: 25px;
   margin-top: 14px;
 
@@ -100,9 +84,6 @@ text-decoration: none;
     text-decoration: none;
     color: black;
   }
-  
-  
-  
 
   .btn1{
     border-radius:6px;
@@ -111,9 +92,7 @@ text-decoration: none;
     color: white;
     margin-right: 10px;
     align-content: space-between;
-    margin-left: 20px;
-    
-    
+    margin-left: 20px; 
   }
 
 }
@@ -141,36 +120,18 @@ text-decoration: none;
     background: green;
     padding: 10px;
     color: white;
-
-
-  }
-  
- 
-
-   
+  }  
 }
-.leftside{
-  /* top: 20px; */
 
-  .lpt{
-   
-  }
-  
-}
 .rightside{ margin-left: 200px;
   .greenman{
-
     margin-right: 350px;
   }
 
 }
-
-
 .line3{ 
   
   /* border: 1px solid red; */
-  
-
   .our{ 
    text-align: center;
     font-size: 36px;
@@ -192,7 +153,6 @@ text-decoration: none;
 
 .t1{
   margin-left:100px ;
-
 }
 .t2{
 margin-left:70px ;
@@ -213,18 +173,11 @@ margin-left:70px ;
 margin-left:60px ;
 }
 
-
-
 .line4{
-  
-
   .ln{
-    
     text-align: center;
     font-size: 36px;
     font-weight:600px;
-    
-
   }
   .lm{
     font-size: 16px;
@@ -232,58 +185,34 @@ margin-left:60px ;
   }
  .img{
   margin-left: 250px ;
-
  }
 
  .cv{
   margin-left: 75px;
-
-
  }
 
  .cvb{
   margin-left: 75px;
-
  }
-
   }
 
 .line5{
-
-  /* border: 1px solid black; */
   
-    
-    
-    
 }
     .man{
-    
     float: left;
-    margin-left: 240px;
-    
-    
-    
-
-      
+    margin-left: 240px; 
     }
-
-    
-
     .mann{
       margin-left: 350px;
       padding: 30px;
       margin: 0px;
       font-size: 30px;
-     
     }
 
     .mannn{
       margin: 0px;
       font-size: 12px;
-     
-     
-      
-     
     }
 
     .mannnn{
@@ -293,29 +222,18 @@ margin-left:60px ;
       background-color:green;
       color: white;
       margin-bottom: 20px;
-      margin-left: 0px;
-          
+      margin-left: 0px;     
     }
-
-  
-
 .line6{
   /* border: 1px solid blue; */
   /* margin-right: 10px; */
-  
 
   .fd{
-    
     align-items: center;
   }
-
-  
-
 }
 
 /* .line7{ border: 1px solid red; */
-  
-
   .goal{
     margin-left: 250px;
     float: left;
@@ -326,7 +244,6 @@ margin-left:60px ;
       padding: 30px;
       margin: 0px;
       font-size: 30px;
-  
   }
 
   .goalll{
@@ -378,8 +295,6 @@ margin-left:60px ;
     margin-right: 30px;
   }
 
-  .eg3{}
-
 }
 
 .line10{
@@ -391,8 +306,6 @@ margin-left:60px ;
   margin-right: 220px;
    margin-bottom: 30px;
    text-align: center;
-
-
   }
 
   .lastt{
